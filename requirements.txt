@@ -1,0 +1,5 @@
+langchain
+streamlit 
+langchin_experimental
+langchain_google_genai
+pandas 
